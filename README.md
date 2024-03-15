@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ausathdzil
 - 👀 I’m interested in Front-End Web
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ? @ausathdzil on Instagram
 
