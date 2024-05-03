@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ausathdzil
-- 👀 I’m interested in Front-End Web
-- ⚛️ I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me ? @ausathdzil on Instagram
+👋 Hi, I’m Ausath
+
+check out my website --> https://ausathdzil.vercel.app/
 
 <!---
 ausathdzil/ausathdzil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
