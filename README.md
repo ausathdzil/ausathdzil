@@ -1,6 +1,6 @@
-👋 hi i'm ausath
-
-💀 check out my website --> [ausathikram.vercel.app](https://ausathikram.vercel.app)
+- 👋 hi, I’m ausath
+- 👀 i’m a web developer
+- 💀 check out my website --> [ausathikram](https://ausathikram.vercel.app)
 
 <!---
 ausathdzil/ausathdzil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
